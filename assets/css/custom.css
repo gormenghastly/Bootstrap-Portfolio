@@ -2,3 +2,23 @@
 body {
     background: url("../images/wavegrid_@2X.png") repeat left top;
 }
+#crystal {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color:  rgb(82, 8, 124);
+    background: rgb(224, 255, 255);
+    border: rgb(82, 8, 124) solid 2px;
+    
+}
+#trivia {
+    font-family: 'Courier New', Courier, monospace;
+    color:  green;
+    background: black;
+    border: white solid 2px;
+    text-shadow: 0 0 2px white;
+}
+#giftastic {
+    color: black;
+    background: greenyellow;
+    border: black solid 2px;
+    padding: 0.5em;
+}
