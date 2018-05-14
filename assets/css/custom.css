@@ -22,3 +22,21 @@ body {
     border: black solid 2px;
     padding: 0.5em;
 }
+#friends-pic {
+    height: 326.99px;
+}
+#friends {
+    background-color: rgba(67, 160, 189, 0.705);
+    font-family: 'Titan One', cursive;
+    padding: 0.5em;
+}
+#burger-pic {
+    background: contain;
+    height: 326.99px;
+}
+#burger {
+    background: lightgray;
+    color: rgb(68, 17, 68);
+    font-family: 'Fredoka One', cursive;
+    padding: 0.5em;
+}
