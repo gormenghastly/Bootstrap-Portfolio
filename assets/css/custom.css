@@ -1,6 +1,30 @@
 
 body {
-    background: url("../images/wavegrid_@2X.png") repeat left top;
+    background: url("../images/card-background.jpg");
+    background-size: cover;
+    height: 100%;
+    font-family: Orbitron, sans-serif;
+}
+#name {
+    font-family: Orbitron, sans-serif;
+}
+#nav-bg {
+    background: rgba(3, 60, 82, 0.507);
+}
+.navbar-nav {
+    color: white;
+}
+.nav-item {
+    font-size: 1.5em;   
+}
+p {
+    font-family: Saira, sans-serif;
+}
+#footer{
+    background: rgba(3, 60, 82, 0.61); 
+    font-size: 1.25em;
+    margin-bottom: 0;
+    border: none;
 }
 #crystal {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
@@ -21,6 +45,7 @@ body {
     background: rgb(99, 167, 231);
     border: black solid 2px;
     padding: 0.5em;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 #friends-pic {
     height: 326.99px;
@@ -39,4 +64,20 @@ body {
     color: rgb(68, 17, 68);
     font-family: 'Fredoka One', cursive;
     padding: 0.5em;
+}
+#news-pic {
+    height: 326.99px;
+}
+#news {
+    font-family: 'Dosis', sans-serif;
+    color: black;
+    font-size: 2em;
+    font-weight: bold;
+}
+#undark {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 3em;
+    color: teal;
+    font-weight: bold;
+    text-shadow: 4px 2px black;
 }
