@@ -1,83 +1,87 @@
-
 body {
-    background: url("../images/card-background.jpg");
-    background-size: cover;
-    height: 100%;
-    font-family: Orbitron, sans-serif;
+  background: url('../images/card-background.jpg');
+  background-size: cover;
+  height: 100%;
+  font-family: Orbitron, sans-serif;
 }
 #name {
-    font-family: Orbitron, sans-serif;
+  font-family: Orbitron, sans-serif;
 }
 #nav-bg {
-    background: rgba(3, 60, 82, 0.507);
+  background: rgba(3, 60, 82, 0.507);
 }
 .navbar-nav {
-    color: white;
+  color: white;
 }
 .nav-item {
-    font-size: 1.5em;   
+  font-size: 1.5em;
 }
 p {
-    font-family: Saira, sans-serif;
+  font-family: Saira, sans-serif;
 }
-#footer{
-    background: rgba(3, 60, 82, 0.61); 
-    font-size: 1.25em;
-    margin-bottom: 0;
-    border: none;
+#footer {
+  background: rgba(3, 60, 82, 0.61);
+  font-size: 1.25em;
+  margin-bottom: 0;
+  border: none;
+}
+#cookery {
+  font-family: Shrikhand, cursive;
+  color: black;
+  background: #ff5722;
 }
 #crystal {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
-    color:  rgb(82, 8, 124);
-    background: rgb(224, 255, 255);
-    border: rgb(82, 8, 124) solid 2px;
-    
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(82, 8, 124);
+  background: rgb(224, 255, 255);
+  border: rgb(82, 8, 124) solid 2px;
 }
 #trivia {
-    font-family: 'Courier New', Courier, monospace;
-    color:  green;
-    background: black;
-    border: white solid 2px;
-    text-shadow: 0 0 2px white;
+  font-family: 'Courier New', Courier, monospace;
+  color: green;
+  background: black;
+  border: white solid 2px;
+  text-shadow: 0 0 2px white;
 }
 #giftastic {
-    color: black;
-    background: rgb(99, 167, 231);
-    border: black solid 2px;
-    padding: 0.5em;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: black;
+  background: rgb(99, 167, 231);
+  border: black solid 2px;
+  padding: 0.5em;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 #friends-pic {
-    height: 326.99px;
+  height: 326.99px;
 }
 #friends {
-    background-color: rgba(67, 160, 189, 0.705);
-    font-family: 'Titan One', cursive;
-    padding: 0.5em;
+  background-color: rgba(67, 160, 189, 0.705);
+  font-family: 'Titan One', cursive;
+  padding: 0.5em;
 }
 #burger-pic {
-    background: contain;
-    height: 326.99px;
+  background: contain;
+  height: 326.99px;
 }
 #burger {
-    background: lightgray;
-    color: rgb(68, 17, 68);
-    font-family: 'Fredoka One', cursive;
-    padding: 0.5em;
+  background: lightgray;
+  color: rgb(68, 17, 68);
+  font-family: 'Fredoka One', cursive;
+  padding: 0.5em;
 }
 #news-pic {
-    height: 326.99px;
+  height: 326.99px;
 }
 #news {
-    font-family: 'Dosis', sans-serif;
-    color: black;
-    font-size: 2em;
-    font-weight: bold;
+  font-family: 'Dosis', sans-serif;
+  color: black;
+  font-size: 2em;
+  font-weight: bold;
 }
 #undark {
-    font-family: 'Gloria Hallelujah', cursive;
-    font-size: 3em;
-    color: teal;
-    font-weight: bold;
-    text-shadow: 4px 2px black;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 3em;
+  color: teal;
+  font-weight: bold;
+  text-shadow: 4px 2px black;
 }
